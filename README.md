@@ -26,3 +26,6 @@ sector of its discretized spectrum (the wings), and its signal-to-noise ratio.
 * [ ] Develop simple estimation models and see how well they behave.
 * [ ] Look into the possibility of an ML-based de-noising approach. This would
 broaden the range of the available input data to the noisier regions.
+
+## Recommended reading
+* [Wikipedia page on RR Lyrae](https://en.wikipedia.org/wiki/RR_Lyrae_variable).
