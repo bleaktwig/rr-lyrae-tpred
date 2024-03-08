@@ -1,0 +1,16 @@
+# Root.
+*
+!README.md
+!.gitignore
+
+# data/
+!data
+data/*
+
+# notebooks/
+!notebooks
+notebooks/*
+!notebooks/*.ipynb
+
+# Preserve empty directories.
+!.gitkeep
