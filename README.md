@@ -32,8 +32,7 @@ of stars.
     * [ ] Laplace fit-based selection (probably needs cleaner data).
 * [ ] Try the core emission correction.
 * [ ] Attempt the algorithm only w/ the left wing.
-* [ ] Play around with different spectrum/flux fitting functions (Chebyshev?).
-* [ ] Play around with a model that can propagate uncertainties (Metropolis?).
+* [ ] Play around with a uncertainty propagation.
 * [ ] Implement methodologies other labels.
 * [ ] Look into the possibility of an ML-based de-noising approach. This would
 broaden the range of the available input data to the noisier regions.
