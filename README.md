@@ -31,7 +31,8 @@ of stars.
     * [x] Distribution minimum-based selection.
     * [ ] Laplace fit-based selection (probably needs cleaner data).
 * [ ] Try the core emission correction.
-* [ ] Attempt the algorithm only w/ the left wing.
+* [x] Attempt the algorithm only w/ one wing.
+* [x] Perform train/test split stability tests.
 * [ ] Play around with a uncertainty propagation.
 * [ ] Implement methodologies other labels.
 * [ ] Look into the possibility of an ML-based de-noising approach. This would
