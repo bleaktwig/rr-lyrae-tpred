@@ -3,14 +3,19 @@
 !README.md
 !.gitignore
 
-# data/
-!data
-data/*
+# spectra/
+!spectra
+spectra/*
 
 # notebooks/
 !notebooks
 notebooks/*
 !notebooks/*.ipynb
+
+# py/
+!py
+py/*
+!py/*.py
 
 # Preserve empty directories.
 !.gitkeep
