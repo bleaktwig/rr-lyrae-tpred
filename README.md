@@ -20,23 +20,23 @@ predictions across the star's phase, improving the field of study of this class
 of stars.
 
 ## Pending tasks
-* [x] Define the input format.
-* [ ] Get more input data.
-* [x] Develop simple estimation models and see how well they behave.
+* [ ] Improve repository order.
+* [ ] Develop functions for each steps to define "production chains".
+* [ ] Develop new estimation models for comparison.
+    * [ ] Develop train/test split stability tests for each model.
+* [ ] Develop wing range selection algorithms.
+    * [ ] Develop wing range selection stability tests.
+    * [x] Distribution minimum-based selection.
+    * [ ] Voigt fit-based selection.
 * [ ] Estimate the sources of uncertainty and include them on the model.
     * [ ] Wing selection.
     * [ ] Uncertainty of the flux measurement.
     * [ ] Fit error.
-* [ ] Develop wing range selection algorithms.
-    * [x] Distribution minimum-based selection.
-    * [ ] Laplace fit-based selection (probably needs cleaner data).
-* [ ] Try the core emission correction.
-* [x] Attempt the algorithm only w/ one wing.
-* [x] Perform train/test split stability tests.
-* [ ] Play around with a uncertainty propagation.
+    * [ ] Play around with uncertainty propagation.
+* [ ] Integrate the core emission correction.
+* [ ] Get more real spectra.
 * [ ] Implement methodologies other labels.
-* [ ] Look into the possibility of an ML-based de-noising approach. This would
-broaden the range of the available input data to the noisier regions.
+* [ ] Look into the possibility of an ML-based de-noising approach.
 
 ## Recommended reading
 * [Wikipedia page on RR Lyrae](https://en.wikipedia.org/wiki/RR_Lyrae_variable).
